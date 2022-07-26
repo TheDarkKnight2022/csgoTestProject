@@ -1,2 +1,2 @@
 # Nothing here
- Just an outdated aimbot for testint and learning :(
+ Just an aimbot for testing and learning
